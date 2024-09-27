@@ -1,0 +1,83 @@
+{
+    "tourist_places": [
+      {
+        "name": "Taj Mahal",
+        "location": {
+          "city": "Agra",
+          "state": "Uttar Pradesh",
+          "country": "India"
+        },
+        "description": "A UNESCO World Heritage Site and one of the Seven Wonders of the World.",
+        "coordinates": {
+          "latitude": 27.1751,
+          "longitude": 78.0421
+        },
+        "rating": 4.8,
+        "reviews": [
+          {
+            "user": "John Doe",
+            "comment": "An amazing experience!",
+            "rating": 5
+          },
+          {
+            "user": "Jane Smith",
+            "comment": "Beautiful architecture.",
+            "rating": 4.5
+          }
+        ]
+      },
+      {
+        "name": "Eiffel Tower",
+        "location": {
+          "city": "Paris",
+          "state": "Île-de-France",
+          "country": "France"
+        },
+        "description": "An iconic symbol of France and a must-visit landmark.",
+        "coordinates": {
+          "latitude": 48.8584,
+          "longitude": 2.2945
+        },
+        "rating": 4.7,
+        "reviews": [
+          {
+            "user": "Alice Brown",
+            "comment": "Stunning views from the top!",
+            "rating": 5
+          },
+          {
+            "user": "Bob Johnson",
+            "comment": "A bit crowded but worth it.",
+            "rating": 4
+          }
+        ]
+      },
+      {
+        "name": "Great Wall of China",
+        "location": {
+          "city": "Beijing",
+          "state": "Beijing",
+          "country": "China"
+        },
+        "description": "A historic fortification and one of the greatest wonders of the world.",
+        "coordinates": {
+          "latitude": 40.4319,
+          "longitude": 116.5704
+        },
+        "rating": 4.9,
+        "reviews": [
+          {
+            "user": "Charlie Davis",
+            "comment": "A breathtaking piece of history.",
+            "rating": 5
+          },
+          {
+            "user": "Dana Lee",
+            "comment": "Incredible views and history.",
+            "rating": 4.8
+          }
+        ]
+      }
+    ]
+  }
+  
